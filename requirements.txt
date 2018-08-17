@@ -1,0 +1,6 @@
+certifi==2018.1.18
+future==0.16.0
+gitdb2==2.0.3
+GitPython==2.1.9
+python-telegram-bot==10.0.1
+smmap2==2.0.3
