@@ -1,4 +1,4 @@
-certifi==2018.1.18
+certifi==2022.12.7
 future==0.16.0
 gitdb2==2.0.3
 GitPython==2.1.9
